@@ -1,27 +1,70 @@
+
+<p align="center">
+   <img src="logoMa.png" alt="Marola RP Logo" width="220"/>
+</p>
+
+<p align="center">
+   <a href="https://discord.gg/seulink"><img src="https://img.shields.io/discord/000000000000000000?color=7289da&label=Discord&logo=discord&style=for-the-badge" alt="Discord"/></a>
+   <a href="https://github.com/Samurai33/MRP"><img src="https://img.shields.io/github/stars/Samurai33/MRP?style=for-the-badge" alt="Stars"/></a>
+   <a href="https://github.com/Samurai33/MRP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Samurai33/MRP?style=for-the-badge" alt="License"/></a>
+   <a href="https://github.com/Samurai33/MRP/commits/main"><img src="https://img.shields.io/github/last-commit/Samurai33/MRP?style=for-the-badge" alt="Last Commit"/></a>
+   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs Welcome"/>
+</p>
+
 # Marola RP
 
-Bem-vindo ao **Marola RP** — um servidor brasileiro de Roleplay para FiveM, desenvolvido por Samurai, com foco em imersão, diversão e comunidade ativa!
-
-![Banner](server.png)
+Bem-vindo ao **Marola RP** — um servidor brasileiro de Roleplay para FiveM, desenvolvido por Samurai, com foco em imersão, diversão, economia dinâmica, empregos variados, facções, veículos brasileiros, eventos, integração com Discord e administração profissional.
 
 ---
+
 
 ## ✨ Sobre o Projeto
-O Marola RP oferece uma experiência completa de roleplay, com sistemas avançados, economia dinâmica, empregos variados (legais e ilegais), grande variedade de veículos brasileiros, customização, eventos e integração com Discord. Ideal para quem busca diversão, realismo e oportunidades de crescimento dentro do universo RP.
+O **Marola RP** é um servidor de Roleplay brasileiro para FiveM, com foco em realismo, diversão, economia viva e comunidade ativa. O projeto traz sistemas avançados, empregos legais e ilegais, facções, veículos nacionais, eventos, integração com Discord, administração profissional e suporte à comunidade.
+
+**Diferenciais:**
+- Código aberto e colaborativo
+- Atualizações frequentes
+- Comunidade ativa e suporte
+- Documentação detalhada
+- Scripts otimizados para desempenho
+- Painel administrativo web (em breve)
+
+<details>
+<summary><strong>Índice</strong></summary>
+
+- [Funcionalidades Principais](#-funcionalidades-principais)
+- [Trabalhos Legais](#-trabalhos-legais)
+- [Trabalhos Ilegais e Facções](#-trabalhos-ilegais)
+- [Modelos de Carros Brasileiros](#-modelos-de-carros-brasileiros)
+- [Instituições Policiais](#-instituições-policiais-e-suas-funções)
+- [Instalação](#️-instalação)
+- [Como Jogar](#-como-jogar)
+- [Contribuindo](#-contribuindo)
+- [Licença](#-licença)
+- [Contato](#-contato)
+- [Agradecimentos](#-agradecimentos)
+
+</details>
 
 ---
+
 
 ## 🚀 Funcionalidades Principais
 - Economia realista e balanceada
 - Sistema de empregos legais e ilegais
+- Facções organizadas (CV, PCC, Milícia, CyberCrew, Gangues)
 - Missões, eventos e conquistas exclusivas
 - Customização de personagens, roupas e veículos
 - Propriedades, garagens e sistema de casas
 - Inventário, crafting e sistema de drogas
 - Administração intuitiva e logs avançados
-- Integração com Discord e logs automáticos
+- Integração com Discord, logs automáticos e webhooks
 - Sistema de voz (VOIP) integrado
 - Scripts otimizados para melhor desempenho
+- Suporte a plugins e expansões
+- Painel administrativo web (em breve)
+- Sistema de logs e auditoria
+- Suporte a eventos sazonais e RP temático
 
 ---
 
@@ -210,22 +253,33 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
+
 ## 👨‍💻 Desenvolvedor
 - **Samurai**
-- GitHub: [Samurai](https://github.com/samurai)
-- Discord: [Marola RP](https://discord.gg/seulink)
+   - GitHub: [Samurai33](https://github.com/Samurai33)
+   - Discord: [Marola RP](https://discord.gg/seulink)
+   - Email: contato@marolarp.com
 
 ---
 
-## 📫 Contato
+
+## 📫 Contato & Links Úteis
 - Email: contato@marolarp.com
 - Discord: [Marola RP](https://discord.gg/seulink)
 - Site: [marolarp.com](https://marolarp.com)
+- GitHub: [Samurai33/MRP](https://github.com/Samurai33/MRP)
 
 ---
 
+
 ## ⭐ Agradecimentos
-Agradecemos a todos os colaboradores, jogadores e à comunidade open source!
+Agradecemos a todos os colaboradores, jogadores, comunidade open source e aos desenvolvedores de recursos utilizados neste projeto!
+
+---
+
+<p align="center">
+   <sub>Feito com ❤️ por Samurai33 e comunidade Marola RP • 2025</sub>
+</p>
 
 ---
 
