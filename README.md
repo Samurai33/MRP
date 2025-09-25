@@ -22,7 +22,7 @@ Bem-vindo ao **Marola RP** — um servidor brasileiro de Roleplay para FiveM, de
 O **Marola RP** é um servidor de Roleplay brasileiro para FiveM, com foco em realismo, diversão, economia viva e comunidade ativa. O projeto traz sistemas avançados, empregos legais e ilegais, facções, veículos nacionais, eventos, integração com Discord, administração profissional e suporte à comunidade.
 
 **Diferenciais:**
-- Código aberto e colaborativo
+- Projeto proprietário e fechado
 - Atualizações frequentes
 - Comunidade ativa e suporte
 - Documentação detalhada
@@ -249,7 +249,7 @@ server-data/
 ---
 
 ## 📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é proprietário e fechado. Todos os direitos reservados a Samurai33. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
