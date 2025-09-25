@@ -1,6 +1,3 @@
-
-# Plano de Ação - Marola RP
-
 <p align="center">
 	<img src="logoMa.png" alt="Logo Marola RP" width="120" />
 </p>
