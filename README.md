@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-   <a href="https://discord.gg/mHrjCvMGBc"><img src="https://img.shields.io/discord/000000000000000000?color=7289da&label=Discord&logo=discord&style=for-the-badge" alt="Discord"/></a>
+   <a href="https://discord.gg/mHrjCvMGBc"><img src="https://img.shields.io/badge/Discord-Marola%20RP%20Server-7289da?logo=discord&style=for-the-badge" alt="Discord"/></a>
    <a href="https://github.com/Samurai33/MRP"><img src="https://img.shields.io/github/stars/Samurai33/MRP?style=for-the-badge" alt="Stars"/></a>
    <a href="https://github.com/Samurai33/MRP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Samurai33/MRP?style=for-the-badge" alt="License"/></a>
    <a href="https://github.com/Samurai33/MRP/commits/main"><img src="https://img.shields.io/github/last-commit/Samurai33/MRP?style=for-the-badge" alt="Last Commit"/></a>
