@@ -161,19 +161,6 @@ O **Marola RP** é um servidor de Roleplay brasileiro para FiveM, com foco em re
 
 ---
 
-## 🚗 Modelos de Carros Brasileiros
-- Volkswagen Gol, Voyage, Saveiro, Fusca, Kombi
-- Fiat Uno, Palio, Siena, Toro, Strada
-- Chevrolet Corsa, Onix, S10, Opala, Montana
-- Ford Ka, Fiesta, EcoSport, Ranger
-- Renault Sandero, Logan, Duster
-- Honda Civic, Fit
-- Toyota Corolla, Hilux
-- Motos: Honda CG, Biz, Titan, Yamaha Fazer, XJ6
-- Caminhões: Mercedes-Benz, Scania, Volvo
-- Veículos de serviço: viaturas policiais, ambulâncias, táxis, ônibus urbanos
-- Carros exclusivos para VIPs e eventos especiais
-- Customização completa: rodas, pinturas, acessórios, som automotivo
 ### Veículos Brasileiros e Premium
 - **Carros:** Volkswagen Gol, Voyage, Saveiro, Fusca, Kombi, Fiat Uno, Palio, Siena, Toro, Strada, Chevrolet Corsa, Onix, S10, Opala, Montana, Ford Ka, Fiesta, EcoSport, Ranger, Renault Sandero, Logan, Duster, Honda Civic, Fit, Toyota Corolla, Hilux
 - **Motos:** Honda CG 160 Titan, CG 125 Fan, Biz 125, XRE 300, CB 500F, CB 1000R, Yamaha Fazer 250, Lander 250, MT-03, MT-07, XJ6, Suzuki GSX-S750, Hayabusa, BMW S1000RR, F 850 GS, Kawasaki Z1000, Ninja 300, Ninja ZX-6R, Harley-Davidson Iron 883, Fat Boy
