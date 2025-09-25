@@ -1,4 +1,24 @@
+
 # Plano de Ação - Marola RP
+
+<p align="center">
+	<img src="logoMa.png" alt="Logo Marola RP" width="120" />
+</p>
+
+<p align="center">
+	<a href="https://github.com/Samurai33/MRP"><img src="https://img.shields.io/github/stars/Samurai33/MRP?style=social" alt="GitHub stars"></a>
+	<a href="https://github.com/Samurai33/MRP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Samurai33/MRP?color=blue" alt="License"></a>
+	<a href="https://github.com/Samurai33/MRP/commits/main"><img src="https://img.shields.io/github/last-commit/Samurai33/MRP?color=green" alt="Last commit"></a>
+	<a href="https://discord.gg/marolarp"><img src="https://img.shields.io/discord/123456789012345678?label=Discord&logo=discord&color=7289da" alt="Discord"></a>
+	<a href="https://github.com/Samurai33/MRP/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+</p>
+
+<p align="center">
+	<b>Plano de ação estratégico para evolução do projeto Marola RP</b><br>
+	<i>Documentação alinhada aos padrões modernos da comunidade dev sênior</i>
+</p>
+
+---
 
 Este plano segue referências modernas da comunidade dev, incorporando OKRs, ownership, checkpoints, automação, frameworks ágeis e indicadores mensuráveis. Cada etapa traz entregáveis claros, templates de acompanhamento e práticas de feedback contínuo.
 
