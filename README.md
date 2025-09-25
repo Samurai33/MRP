@@ -257,7 +257,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Desenvolvedor
 - **Samurai**
    - GitHub: [Samurai33](https://github.com/Samurai33)
-   - Discord: [Marola RP](https://discord.gg/seulink)
+   - Discord: [Marola RP](https://discord.gg/mHrjCvMGBc)
    - Email: contato@marolarp.com
 
 ---
@@ -265,7 +265,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📫 Contato & Links Úteis
 - Email: contato@marolarp.com
-- Discord: [Marola RP](https://discord.gg/seulink)
+- Discord: [Marola RP](https://discord.gg/mHrjCvMGBc)
 - Site: [marolarp.com](https://marolarp.com)
 - GitHub: [Samurai33/MRP](https://github.com/Samurai33/MRP)
 
