@@ -118,30 +118,40 @@ O **Marola RP** é um servidor de Roleplay brasileiro para FiveM, com foco em re
 - Ladrão de Joias
 - Pirata Digital (Hacker Freelancer)
 
-### Facções Criminosas
-- **Comando Vermelho (CV)**
-   - Tráfico de drogas
-   - Dominação de territórios
-   - Roubos organizados
-   - Extorsão
-- **Primeiro Comando da Capital (PCC)**
-   - Tráfico de armas e drogas
-   - Sequestros
-   - Roubos a bancos
-   - Controle de presídios
-- **Milícia**
-   - Cobrança de "proteção"
-   - Controle de áreas
-   - Roubos e extorsão
-- **Facção de Hacking (CyberCrew)**
-   - Invasão de sistemas bancários
-   - Roubo de dados
-   - Clonagem de cartões
-   - Ataques a sistemas policiais
-- **Gangues Locais**
-   - Roubos de rua
-   - Pichação
-   - Pequenos tráficos
+### Facções Criminosas e Produção
+
+#### Comando Vermelho (CV)
+- Produz e distribui drogas (maconha, cocaína, crack)
+- Domina territórios e pontos de venda
+- Realiza roubos organizados a bancos, joalherias e cargas
+- Extorsão de comerciantes e moradores
+- Lavagem de dinheiro
+
+#### Primeiro Comando da Capital (PCC)
+- Tráfico de armas e drogas (importação/exportação)
+- Sequestros e resgates
+- Roubos a bancos e carros-fortes
+- Controle de presídios e influência sobre outras facções
+- Produção de documentos falsos
+
+#### Milícia
+- Cobrança de "proteção" em áreas dominadas
+- Controle de serviços clandestinos (gás, internet, transporte)
+- Roubos, extorsão e lavagem de dinheiro
+- Produção de armas artesanais
+
+#### Facção de Hacking (CyberCrew)
+- Invasão de sistemas bancários e governamentais
+- Roubo e venda de dados pessoais
+- Clonagem de cartões e fraudes digitais
+- Ataques a sistemas policiais e empresas
+- Produção de softwares maliciosos
+
+#### Gangues Locais
+- Roubos de rua, furtos e pichação
+- Pequeno tráfico de drogas
+- Produção de armas caseiras
+- Controle de áreas menores e disputas territoriais
 
 ### Missões de Facção
 - Dominação de territórios
@@ -152,47 +162,52 @@ O **Marola RP** é um servidor de Roleplay brasileiro para FiveM, com foco em re
 ---
 
 ## 🚗 Modelos de Carros Brasileiros
-- Veículos populares e clássicos do Brasil
-- Motos nacionais
-- Caminhões e utilitários
-- Veículos de serviço (polícia, ambulância, táxi, etc.)
-- Carros exclusivos para VIPs e eventos
-- Customização completa: rodas, pinturas, acessórios
+## 🚗 Modelos de Carros Brasileiros
+- Volkswagen Gol, Voyage, Saveiro, Fusca, Kombi
+- Fiat Uno, Palio, Siena, Toro, Strada
+- Chevrolet Corsa, Onix, S10, Opala, Montana
+- Ford Ka, Fiesta, EcoSport, Ranger
+- Renault Sandero, Logan, Duster
+- Honda Civic, Fit
+- Toyota Corolla, Hilux
+- Motos: Honda CG, Biz, Titan, Yamaha Fazer, XJ6
+- Caminhões: Mercedes-Benz, Scania, Volvo
+- Veículos de serviço: viaturas policiais, ambulâncias, táxis, ônibus urbanos
+- Carros exclusivos para VIPs e eventos especiais
+- Customização completa: rodas, pinturas, acessórios, som automotivo
 
 ---
 
-## 🏢 Instituições Policiais e Suas Funções
+## 🏢 Instituições e Funções
 
 ### Polícia Militar (PM)
-- Patrulhamento ostensivo
-- Abordagens e blitz
-- Repressão ao crime
-- Apoio em grandes eventos
+- Patrulhamento ostensivo, abordagens, blitz, repressão ao crime
+- Apoio em grandes eventos e operações conjuntas
+- Controle de manifestações e distúrbios
 
 ### Polícia Civil (PC)
-- Investigação criminal
-- Cumprimento de mandados
-- Operações especiais
-- Inteligência policial
+- Investigação criminal, inteligência policial
+- Cumprimento de mandados, operações especiais
+- Elaboração de inquéritos e perícias
 
 ### Polícia Federal (PF)
-- Crimes federais (tráfico internacional, contrabando, lavagem de dinheiro)
-- Operações interestaduais
-- Segurança de autoridades
+- Combate a crimes federais: tráfico internacional, contrabando, lavagem de dinheiro
+- Operações interestaduais e internacionais
+- Segurança de autoridades e fronteiras
 
 ### Guarda Municipal (GM)
-- Proteção de bens públicos
-- Apoio à segurança urbana
-- Fiscalização de trânsito
+- Proteção de bens públicos, fiscalização de trânsito
+- Apoio à segurança urbana e escolar
+- Atuação em eventos municipais
 
 ### SAMU
 - Atendimento de emergências médicas
-- Resgate e primeiros socorros
+- Resgate, primeiros socorros e transporte de pacientes
 
 ### Corpo de Bombeiros
-- Combate a incêndios
-- Salvamento e resgate
-- Prevenção de acidentes
+- Combate a incêndios, salvamento e resgate
+- Prevenção de acidentes, vistorias técnicas
+- Apoio em desastres naturais
 
 ---
 
