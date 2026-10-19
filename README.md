@@ -118,7 +118,7 @@ privately through the contact channels on [marolaroleplay.com.br](https://marola
 
 <div align="center">
 
-**Need something built, secured or kept online?** → [samurai@n3xus.dev](mailto:samurai@n3xus.dev) · [n3xus.dev](https://n3xus.dev)
+**Need something built, secured or kept online?** → [contato@n3xus.dev](mailto:contato@n3xus.dev) · [n3xus.dev](https://n3xus.dev)
 
 © Thiago "Samurai" Rangel · [N3XUS](https://n3xus.dev) · Proprietary license
 
